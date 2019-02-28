@@ -1,0 +1,11 @@
+---
+title: "Historia"
+---
+
+ <p align="justify">
+Esta página surgió con la idea de divulgar información a la población en general y no solamente científica. El conocimiento se ha convertido en poder y negocio, lo cual va en contra de nuestra política. Quieres adentrarte en los secretos de la vida, informarte de lo que pasa en el mundo, salud orgánica, cómo funciona la química, amigos del jardín...Este es el sitio indicado.
+ </p>
+
+# [Página](https://biosofia.com)
+
+#![](imagenes/IMG_2034.jpg){width=500px}
